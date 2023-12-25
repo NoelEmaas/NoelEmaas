@@ -1,1 +1,16 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=1500&pause=4000&color=18E7F7&vCenter=true&width=180&height=15&lines=print('hello+there')" alt="Typing SVG" /></a>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Github Stats -->
+      <td valign="top" width="50%">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=NoelEmaas&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+        </div>
+      </td>
+      <!-- Most used Languages -->
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelEmaas&hide_border=true&layout=compact&theme=github_dark" align="left" />
+      </td>
+    </tr>
+  </table>  
+</div>
